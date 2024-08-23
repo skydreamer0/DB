@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Search</title>
+     <style>
+         body {
+             font-family: Arial, sans-serif;
+             background-color: #000;
+             color: #fff;
+             margin: 0;
+             padding: 0;
+             text-align: center; /* 將所有文字置中 */
+         }
+
+         header {
+             background-color: #333;
+             color: #fff;
+             padding: 20px 0;
+         }
+
+         header h1 {
+             font-size: 36px;
+             margin: 0;
+         }
+
+         .container {
+             max-width: 600px;
+             margin: 0 auto;
+             padding: 20px;
+             background-color: #000;
+             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+         }
+
+         label {
+             display: block;
+             font-size: 25px;
+             margin-bottom: 15px;
+         }
+
+         input[type="text"] {
+             width: 30%;
+             padding: 10px;
+             font-size: 16px;
+             border: 1px solid #ccc;
+             border-radius: 5px;
+             margin-bottom: 20px;
+             margin: 0 auto; /* 將輸入框置中 */
+         }
+
+         button[type="submit"] {
+             background-color: #555;
+             color: #fff;
+             font-size: 16px;
+             border: none;
+             border-radius: 5px;
+             padding: 10px 20px;
+             cursor: pointer;
+         }
+
+         button[type="submit"]:hover {
+             background-color: #555;
+         }
+     </style>
+</head>
+<body>
+
+<header>
+     <h1>藥品基本資訊查詢系統</h1>
+</header>
+
+<div class="container">
+     <form action="/search" method="POST"> <!-- 改為 POST -->
+         <label for="query_value">輸入藥品國際條碼（可以直接刷條碼）</label>
+         <input type="text" id="query_value" name="query_value" required>
+         <button type="submit" class="dark">Search</button>
+     </form>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+/* 重置和基礎樣式 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #333;
+  background-color: #f8f9fa;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+input[type="text"],
+input[type="search"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* 響應式設計 */
+@media (max-width: 768px) {
+  .nav-links.nav-active {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* 中心對齊 */
+  }
+
+  .nav-links.nav-active li {
+    margin: 15px 0; /* 增加垂直間距，防止重疊 */
+  }
+}

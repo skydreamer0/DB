@@ -1,0 +1,2504 @@
+[{
+  "_id": {
+    "$oid": "66b77a3204e2ac825f88229c"
+  },
+  "barcode": "4716140001307",
+  "location": "C1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77a3a04e2ac825f88229e"
+  },
+  "barcode": "4710837771474",
+  "location": "C1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77a4b04e2ac825f8822a0"
+  },
+  "barcode": "4713680318155",
+  "location": "C1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77a5304e2ac825f8822a2"
+  },
+  "barcode": "4716140200953",
+  "location": "C1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77a6104e2ac825f8822a4"
+  },
+  "barcode": "0114711928753130",
+  "location": "C1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77a6904e2ac825f8822a6"
+  },
+  "barcode": "4711916011979",
+  "location": "C1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77a7504e2ac825f8822a8"
+  },
+  "barcode": "4719873510030",
+  "location": "C1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77a7904e2ac825f8822aa"
+  },
+  "barcode": "4715459597099",
+  "location": "C1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b1704e2ac825f8822ad"
+  },
+  "barcode": "4716083010879",
+  "location": "C2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b2a04e2ac825f8822af"
+  },
+  "barcode": "4719693800830",
+  "location": "C2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b3104e2ac825f8822b1"
+  },
+  "barcode": "4710837771986",
+  "location": "C2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b3804e2ac825f8822b3"
+  },
+  "barcode": "4713680316922",
+  "location": "C2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b3d04e2ac825f8822b5"
+  },
+  "barcode": "4715168111814",
+  "location": "C2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b4a04e2ac825f8822b7"
+  },
+  "barcode": "4711916005145",
+  "location": "C3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b5004e2ac825f8822b9"
+  },
+  "barcode": "4710596240150",
+  "location": "C3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b5404e2ac825f8822bb"
+  },
+  "barcode": "4713680314027",
+  "location": "C3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b5f04e2ac825f8822bd"
+  },
+  "barcode": "0114711928750658",
+  "location": "C3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b6304e2ac825f8822bf"
+  },
+  "barcode": "4716140214110",
+  "location": "C3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b6d04e2ac825f8822c1"
+  },
+  "barcode": "4716140014024",
+  "location": "C4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b7204e2ac825f8822c3"
+  },
+  "barcode": "4711916010514",
+  "location": "C4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b8104e2ac825f8822c5"
+  },
+  "barcode": "4711928753256",
+  "location": "C4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77b8c04e2ac825f8822c7"
+  },
+  "barcode": "4716953633269",
+  "location": "C4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77ba304e2ac825f8822c9"
+  },
+  "barcode": "4710596330073",
+  "location": "C4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77bc104e2ac825f8822cb"
+  },
+  "barcode": "4711916006241",
+  "location": "C4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77bd004e2ac825f8822cd"
+  },
+  "barcode": "4710596330905",
+  "location": "C4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77be904e2ac825f8822cf"
+  },
+  "barcode": "4714735434349",
+  "location": "C4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c1504e2ac825f8822d4"
+  },
+  "barcode": "4713469927172",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c1c04e2ac825f8822d6"
+  },
+  "barcode": "4710993908028",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c2604e2ac825f8822d8"
+  },
+  "barcode": "5000456018746",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c2b04e2ac825f8822da"
+  },
+  "barcode": "4716675565800",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c3304e2ac825f8822dc"
+  },
+  "barcode": "8711141910326",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c3904e2ac825f8822de"
+  },
+  "barcode": "5000456031424",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c3f04e2ac825f8822e0"
+  },
+  "barcode": "5000455019430",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c4404e2ac825f8822e2"
+  },
+  "barcode": "4716675467869",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c4804e2ac825f8822e4"
+  },
+  "barcode": "4716675467876",
+  "location": "C5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c6904e2ac825f8822e7"
+  },
+  "barcode": "4719858948964",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c7004e2ac825f8822e9"
+  },
+  "barcode": "4713680317219",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c7f04e2ac825f8822eb"
+  },
+  "barcode": "4719858949268",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c8d04e2ac825f8822ed"
+  },
+  "barcode": "4716140214318",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c9504e2ac825f8822ef"
+  },
+  "barcode": "4713930122211",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77c9d04e2ac825f8822f1"
+  },
+  "barcode": "4711436780164",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77ca304e2ac825f8822f3"
+  },
+  "barcode": "4713680322350",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77ca804e2ac825f8822f5"
+  },
+  "barcode": "4711436780348",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77cad04e2ac825f8822f7"
+  },
+  "barcode": "4716140209536",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77cb804e2ac825f8822f9"
+  },
+  "barcode": "4716140219214",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77cc204e2ac825f8822fb"
+  },
+  "barcode": "4711436780300",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77cca04e2ac825f8822fd"
+  },
+  "barcode": "4719844007422",
+  "location": "D1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77cd504e2ac825f8822ff"
+  },
+  "barcode": "4710837772631",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77cda04e2ac825f882301"
+  },
+  "barcode": "4710596337997",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77cf704e2ac825f882303"
+  },
+  "barcode": "4710837772464",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d0004e2ac825f882305"
+  },
+  "barcode": "4714925002884",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d0604e2ac825f882307"
+  },
+  "barcode": "4714925002877",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d0c04e2ac825f882309"
+  },
+  "barcode": "4714925002655",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d1604e2ac825f88230b"
+  },
+  "barcode": "4714534022006",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d1c04e2ac825f88230d"
+  },
+  "barcode": "4716140213519",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d2404e2ac825f88230f"
+  },
+  "barcode": "4716140213632",
+  "location": "D2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d2b04e2ac825f882311"
+  },
+  "barcode": "1210001150614",
+  "location": "D3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d2f04e2ac825f882313"
+  },
+  "barcode": "840164516951",
+  "location": "D3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d3404e2ac825f882315"
+  },
+  "barcode": "4712462823719",
+  "location": "D3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d3804e2ac825f882317"
+  },
+  "barcode": "4710836252622",
+  "location": "D3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d3c04e2ac825f882319"
+  },
+  "barcode": "4987123140218",
+  "location": "D3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77d4104e2ac825f88231b"
+  },
+  "barcode": "4711928849133",
+  "location": "D3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b77f4cde5995f81540da13"
+  },
+  "barcode": " 1210001150614",
+  "location": "D3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7817c74cdef2ded17da19"
+  },
+  "barcode": "4711928141091",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7818074cdef2ded17da1c"
+  },
+  "barcode": "4714925002747",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7818574cdef2ded17da1f"
+  },
+  "barcode": "4710596240136",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7818e74cdef2ded17da22"
+  },
+  "barcode": "4719883570017",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7819874cdef2ded17da25"
+  },
+  "barcode": "3594452500234",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b781ac74cdef2ded17da28"
+  },
+  "barcode": "4711916005862",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b781b374cdef2ded17da2b"
+  },
+  "barcode": "4711928140247",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b781b874cdef2ded17da2e"
+  },
+  "barcode": "4710836102927",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b781bc74cdef2ded17da31"
+  },
+  "barcode": "4716675212896",
+  "location": "D4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7824d74cdef2ded17da3a"
+  },
+  "barcode": "4713680375127",
+  "location": "E1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7825274cdef2ded17da3d"
+  },
+  "barcode": "4713680325450",
+  "location": "E1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7825774cdef2ded17da40"
+  },
+  "barcode": "4713680324651",
+  "location": "E1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7825d74cdef2ded17da43"
+  },
+  "barcode": "4713680316236",
+  "location": "E1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7826674cdef2ded17da46"
+  },
+  "barcode": "4713680318964",
+  "location": "E1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7826e74cdef2ded17da49"
+  },
+  "barcode": "4713680313259",
+  "location": "E1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7827274cdef2ded17da4c"
+  },
+  "barcode": "4713680328550",
+  "location": "E1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7829174cdef2ded17da50"
+  },
+  "barcode": "4713930010693",
+  "location": "E2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7829674cdef2ded17da53"
+  },
+  "barcode": "4713680312955",
+  "location": "E2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7829c74cdef2ded17da56"
+  },
+  "barcode": "4710836370241",
+  "location": "E2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b782a274cdef2ded17da59"
+  },
+  "barcode": "4713680316359",
+  "location": "E2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b782a774cdef2ded17da5c"
+  },
+  "barcode": "4713680312825",
+  "location": "E2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b782b274cdef2ded17da5f"
+  },
+  "barcode": "4715168101617",
+  "location": "E3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b782b674cdef2ded17da62"
+  },
+  "barcode": "4719867870065",
+  "location": "E3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b782de74cdef2ded17da66"
+  },
+  "barcode": "4710836393318",
+  "location": "E3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b782e774cdef2ded17da69"
+  },
+  "barcode": "8002660012807",
+  "location": "E3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b782f574cdef2ded17da6c"
+  },
+  "barcode": "4710993908301",
+  "location": "E3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7830774cdef2ded17da6f"
+  },
+  "barcode": "4710596340010",
+  "location": "E3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7830c74cdef2ded17da72"
+  },
+  "barcode": "4711914443826",
+  "location": "E3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7832074cdef2ded17da75"
+  },
+  "barcode": "4719866940639",
+  "location": "E4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7832974cdef2ded17da78"
+  },
+  "barcode": "840164516739",
+  "location": "E4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7832d74cdef2ded17da7b"
+  },
+  "barcode": "4711928140063",
+  "location": "E4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7833274cdef2ded17da7e"
+  },
+  "barcode": "1210001152441",
+  "location": "E4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7833d74cdef2ded17da81"
+  },
+  "barcode": "1210001152434",
+  "location": "E4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7834374cdef2ded17da84"
+  },
+  "barcode": "4987136104481",
+  "location": "E4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7834774cdef2ded17da87"
+  },
+  "barcode": "5013346094706",
+  "location": "E4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7837374cdef2ded17da8a"
+  },
+  "barcode": "4987233012931",
+  "location": "E4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7843774cdef2ded17da8e"
+  },
+  "barcode": "4714925002105",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7843a74cdef2ded17da91"
+  },
+  "barcode": "00471259",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7844674cdef2ded17da94"
+  },
+  "barcode": "5000455017771",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7844c74cdef2ded17da97"
+  },
+  "barcode": "4719866940622",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7845374cdef2ded17da9a"
+  },
+  "barcode": "1210001152427",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7845674cdef2ded17da9d"
+  },
+  "barcode": "840164516944",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7845b74cdef2ded17daa0"
+  },
+  "barcode": "4716140713927",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7846174cdef2ded17daa3"
+  },
+  "barcode": "840164516784",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7846c74cdef2ded17daa6"
+  },
+  "barcode": "4714925300362",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7849a74cdef2ded17daa9"
+  },
+  "barcode": "4714534020408",
+  "location": "F1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784a274cdef2ded17daac"
+  },
+  "barcode": "4716140229015",
+  "location": "F1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784ab74cdef2ded17daaf"
+  },
+  "barcode": "4715459221093",
+  "location": "F1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784b274cdef2ded17dab2"
+  },
+  "barcode": "4711457271764",
+  "location": "F1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784c074cdef2ded17dab5"
+  },
+  "barcode": "4710829991026",
+  "location": "F1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784c674cdef2ded17dab8"
+  },
+  "barcode": "0114711928750726",
+  "location": "F1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784d674cdef2ded17dabb"
+  },
+  "barcode": "4710836379671",
+  "location": "F2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784de74cdef2ded17dabe"
+  },
+  "barcode": "4713680316816",
+  "location": "F2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784e474cdef2ded17dac1"
+  },
+  "barcode": "4711457462490",
+  "location": "F2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784ea74cdef2ded17dac4"
+  },
+  "barcode": "4710829900592",
+  "location": "F2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b784f874cdef2ded17dac7"
+  },
+  "barcode": "4716140018602",
+  "location": "F2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7853174cdef2ded17daca"
+  },
+  "barcode": "4714504130311",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7853b74cdef2ded17dacd"
+  },
+  "barcode": "3582910006244",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7854074cdef2ded17dad0"
+  },
+  "barcode": "4710596336273",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7854774cdef2ded17dad3"
+  },
+  "barcode": "1210001150935",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7855374cdef2ded17dad6"
+  },
+  "barcode": "4719863752440",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7855a74cdef2ded17dad9"
+  },
+  "barcode": "4719863752594",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7856374cdef2ded17dadc"
+  },
+  "barcode": "4719866940738",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7856b74cdef2ded17dadf"
+  },
+  "barcode": "4716140000508",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7857174cdef2ded17dae2"
+  },
+  "barcode": "4711916000850",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7857574cdef2ded17dae5"
+  },
+  "barcode": "8002660026767",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7858074cdef2ded17dae8"
+  },
+  "barcode": "3594455200100",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7858574cdef2ded17daeb"
+  },
+  "barcode": "1210001150690",
+  "location": "F3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b785e574cdef2ded17daef"
+  },
+  "barcode": "4716140005305",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b785eb74cdef2ded17daf2"
+  },
+  "barcode": "4065268032770",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b785ef74cdef2ded17daf5"
+  },
+  "barcode": "4714925300003",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b785f474cdef2ded17daf8"
+  },
+  "barcode": "4714925002952",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b785f874cdef2ded17dafb"
+  },
+  "barcode": "3582910007920",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b785fd74cdef2ded17dafe"
+  },
+  "barcode": "4714925002488",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7860274cdef2ded17db01"
+  },
+  "barcode": "4710596325260",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7860674cdef2ded17db04"
+  },
+  "barcode": "4800136120049",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7860f74cdef2ded17db07"
+  },
+  "barcode": "4715898830030",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7861874cdef2ded17db0a"
+  },
+  "barcode": "7046264824481",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7862b74cdef2ded17db0d"
+  },
+  "barcode": "9919000689110VCBZ",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7863174cdef2ded17db10"
+  },
+  "barcode": "7321839720147",
+  "location": "F4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7864474cdef2ded17db13"
+  },
+  "barcode": "1210001150775",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7864d74cdef2ded17db16"
+  },
+  "barcode": "4714925001993",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7865b74cdef2ded17db19"
+  },
+  "barcode": "4260095681522",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7866274cdef2ded17db1c"
+  },
+  "barcode": "4260095681539",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7866574cdef2ded17db1f"
+  },
+  "barcode": "4714925002228",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7866b74cdef2ded17db22"
+  },
+  "barcode": "3582910023586",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7866f74cdef2ded17db25"
+  },
+  "barcode": "4719866940660",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7867274cdef2ded17db28"
+  },
+  "barcode": "4714925001900",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7867674cdef2ded17db2b"
+  },
+  "barcode": "4714925002556",
+  "location": "F5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b786bd74cdef2ded17db2f"
+  },
+  "barcode": "4711916001598",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b786cf74cdef2ded17db32"
+  },
+  "barcode": "4716140003837",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b786d474cdef2ded17db35"
+  },
+  "barcode": "4713680319152",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b786df74cdef2ded17db38"
+  },
+  "barcode": "4715718357013",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b786ef74cdef2ded17db3b"
+  },
+  "barcode": "4710596240075",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7870174cdef2ded17db3f"
+  },
+  "barcode": "4715859212134",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7870574cdef2ded17db42"
+  },
+  "barcode": "4713680310258",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7870b74cdef2ded17db45"
+  },
+  "barcode": "4715689446877",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7871b74cdef2ded17db48"
+  },
+  "barcode": "4710596292210",
+  "location": "G1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7872974cdef2ded17db4b"
+  },
+  "barcode": "4716814330214",
+  "location": "G2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7873974cdef2ded17db4e"
+  },
+  "barcode": "4719879910797",
+  "location": "G2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7873f74cdef2ded17db51"
+  },
+  "barcode": "4715168107657",
+  "location": "G2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7874674cdef2ded17db54"
+  },
+  "barcode": "4713680316755",
+  "location": "G2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7874a74cdef2ded17db57"
+  },
+  "barcode": "4713680328659",
+  "location": "G2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7874e74cdef2ded17db5a"
+  },
+  "barcode": "4719693800939",
+  "location": "G2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7876374cdef2ded17db5d"
+  },
+  "barcode": "4712462811914",
+  "location": "G2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7878b74cdef2ded17db62"
+  },
+  "barcode": "4711436781215",
+  "location": "G3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7878f74cdef2ded17db65"
+  },
+  "barcode": "4717818021023",
+  "location": "G3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7879774cdef2ded17db68"
+  },
+  "barcode": "4710829990487",
+  "location": "G3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7879c74cdef2ded17db6b"
+  },
+  "barcode": "4717444203732",
+  "location": "G3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787a274cdef2ded17db6e"
+  },
+  "barcode": "4716140018213",
+  "location": "G3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787ab74cdef2ded17db71"
+  },
+  "barcode": "4712462212919",
+  "location": "G3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787c674cdef2ded17db74"
+  },
+  "barcode": "4715168106681",
+  "location": "G4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787d074cdef2ded17db77"
+  },
+  "barcode": "4716140003851",
+  "location": "G4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787d774cdef2ded17db7a"
+  },
+  "barcode": "4716814330078",
+  "location": "G4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787e174cdef2ded17db7d"
+  },
+  "barcode": "4713930390764",
+  "location": "G4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787e574cdef2ded17db80"
+  },
+  "barcode": "4716814330115",
+  "location": "G4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787ed74cdef2ded17db83"
+  },
+  "barcode": "4714534011208",
+  "location": "G4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787f374cdef2ded17db86"
+  },
+  "barcode": "4716140019388",
+  "location": "G4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b787ff74cdef2ded17db89"
+  },
+  "barcode": "4716814330191",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7880e74cdef2ded17db8c"
+  },
+  "barcode": "4714599040625",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7881274cdef2ded17db8f"
+  },
+  "barcode": "4714534014322",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7881774cdef2ded17db92"
+  },
+  "barcode": "4716140012174",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7881c74cdef2ded17db95"
+  },
+  "barcode": "4711396330126",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7882174cdef2ded17db98"
+  },
+  "barcode": "4716140004209",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7882974cdef2ded17db9b"
+  },
+  "barcode": "4710596343721",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7883174cdef2ded17db9e"
+  },
+  "barcode": "4716814330177",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7884e74cdef2ded17dba4"
+  },
+  "barcode": "4712803129142",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7886f74cdef2ded17dba8"
+  },
+  "barcode": "4717818013127",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7887574cdef2ded17dbab"
+  },
+  "barcode": "4716140018718",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7887a74cdef2ded17dbae"
+  },
+  "barcode": "4714534013806",
+  "location": "G5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7888674cdef2ded17dbb1"
+  },
+  "barcode": "4715168108432",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7888e74cdef2ded17dbb4"
+  },
+  "barcode": "4716140001932",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7889174cdef2ded17dbb7"
+  },
+  "barcode": "4716140006418",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7889674cdef2ded17dbba"
+  },
+  "barcode": "4716140003127",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7889b74cdef2ded17dbbd"
+  },
+  "barcode": "4716140219177",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b788a474cdef2ded17dbc0"
+  },
+  "barcode": "4710596130024",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b788aa74cdef2ded17dbc3"
+  },
+  "barcode": "4714534010409",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b788ae74cdef2ded17dbc6"
+  },
+  "barcode": "4714534010300",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b788b674cdef2ded17dbc9"
+  },
+  "barcode": "4715689348867",
+  "location": "G6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b788e074cdef2ded17dbcd"
+  },
+  "barcode": "4710836210332",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b788e874cdef2ded17dbd0"
+  },
+  "barcode": "4715168102614",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b788fe74cdef2ded17dbd3"
+  },
+  "barcode": "0114711928750283",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7890274cdef2ded17dbd6"
+  },
+  "barcode": "0114711928750023",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7891f74cdef2ded17dbd9"
+  },
+  "barcode": "4719693801615",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7892874cdef2ded17dbdc"
+  },
+  "barcode": "4712244440035",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7892b74cdef2ded17dbdf"
+  },
+  "barcode": "4711916003998",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7895c74cdef2ded17dbe5"
+  },
+  "barcode": "4710596702245",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7896f74cdef2ded17dbe8"
+  },
+  "barcode": "0114711928753222",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7897774cdef2ded17dbeb"
+  },
+  "barcode": "4710837771405",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7897d74cdef2ded17dbee"
+  },
+  "barcode": "4716068204019",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7898174cdef2ded17dbf1"
+  },
+  "barcode": "4716068148016",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7898474cdef2ded17dbf4"
+  },
+  "barcode": "4719858945703",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7898774cdef2ded17dbf7"
+  },
+  "barcode": "4711916006807",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7899974cdef2ded17dbfb"
+  },
+  "barcode": "4716140208010",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789b174cdef2ded17dbfe"
+  },
+  "barcode": "4717555638096",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789b674cdef2ded17dc01"
+  },
+  "barcode": "4719693809819",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789bd74cdef2ded17dc04"
+  },
+  "barcode": "4714054006241",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789c574cdef2ded17dc07"
+  },
+  "barcode": "3612",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789cd74cdef2ded17dc0a"
+  },
+  "barcode": "4716953612929",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789d274cdef2ded17dc0d"
+  },
+  "barcode": "4711914443284",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789d974cdef2ded17dc10"
+  },
+  "barcode": "4715168102478",
+  "location": "G7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789ed74cdef2ded17dc13"
+  },
+  "barcode": "0114711928752010",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789f174cdef2ded17dc16"
+  },
+  "barcode": "4716140209055",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789f674cdef2ded17dc19"
+  },
+  "barcode": "4717818013103",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789fb74cdef2ded17dc1c"
+  },
+  "barcode": "4714421807259",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b789fd74cdef2ded17dc1f"
+  },
+  "barcode": "4719858947653",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a2674cdef2ded17dc24"
+  },
+  "barcode": "()33413",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a2674cdef2ded17dc27"
+  },
+  "barcode": "FY T022 ",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a2b74cdef2ded17dc2a"
+  },
+  "barcode": "4712123610214",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a3274cdef2ded17dc2d"
+  },
+  "barcode": "4719879910025",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a3974cdef2ded17dc30"
+  },
+  "barcode": "4713930070796",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a4074cdef2ded17dc33"
+  },
+  "barcode": "14710836375243",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a4474cdef2ded17dc36"
+  },
+  "barcode": "4719858948605",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a4974cdef2ded17dc39"
+  },
+  "barcode": "4710700450550",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a4e74cdef2ded17dc3c"
+  },
+  "barcode": "4716953603200",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a5474cdef2ded17dc3f"
+  },
+  "barcode": "4714504130328",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a5874cdef2ded17dc42"
+  },
+  "barcode": "4713680315444",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a5b74cdef2ded17dc45"
+  },
+  "barcode": "4715859212110",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78a8874cdef2ded17dc48"
+  },
+  "barcode": "471695360320",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b0474cdef2ded17dc57"
+  },
+  "barcode": "4711457275595",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b2074cdef2ded17dc5a"
+  },
+  "barcode": "4714483390362",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b3e74cdef2ded17dc5e"
+  },
+  "barcode": "4711916003653",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b4d74cdef2ded17dc63"
+  },
+  "barcode": "4710836370753",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b5174cdef2ded17dc66"
+  },
+  "barcode": "4712123610580",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b5c74cdef2ded17dc6b"
+  },
+  "barcode": "4717216015112",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b6374cdef2ded17dc6e"
+  },
+  "barcode": "4715168101020",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b6b74cdef2ded17dc71"
+  },
+  "barcode": "4710680401610",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b7074cdef2ded17dc74"
+  },
+  "barcode": "4711457461417",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b7574cdef2ded17dc77"
+  },
+  "barcode": "4714483126411",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b7a74cdef2ded17dc7a"
+  },
+  "barcode": "4713435580431",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b7e74cdef2ded17dc7d"
+  },
+  "barcode": "4719858944829",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b8174cdef2ded17dc80"
+  },
+  "barcode": "4715168101921",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b8d74cdef2ded17dc85"
+  },
+  "barcode": "4716953612455",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78b9674cdef2ded17dc88"
+  },
+  "barcode": "4712308862094",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78baa74cdef2ded17dc8b"
+  },
+  "barcode": "4712780101612",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78bad74cdef2ded17dc8e"
+  },
+  "barcode": "8901083010417",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78bb374cdef2ded17dc91"
+  },
+  "barcode": "4713930139219",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78bb774cdef2ded17dc94"
+  },
+  "barcode": "4714025321014",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78bba74cdef2ded17dc97"
+  },
+  "barcode": "4716140230400",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78bbf74cdef2ded17dc9a"
+  },
+  "barcode": "4719871850077",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78bcb74cdef2ded17dc9f"
+  },
+  "barcode": "4716140230318",
+  "location": "G8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78cb774cdef2ded17dca6"
+  },
+  "barcode": "4711916000614",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ccc74cdef2ded17dca9"
+  },
+  "barcode": "4714925002679",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78cd274cdef2ded17dcac"
+  },
+  "barcode": "4714925002686",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78cd574cdef2ded17dcaf"
+  },
+  "barcode": "4714925002662",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78cdc74cdef2ded17dcb2"
+  },
+  "barcode": "4713680387908",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ce574cdef2ded17dcb5"
+  },
+  "barcode": "4713680373840",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ce774cdef2ded17dcb8"
+  },
+  "barcode": "4713680373802",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78d0274cdef2ded17dcbb"
+  },
+  "barcode": "4710596230069",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78d2274cdef2ded17dcbe"
+  },
+  "barcode": "4710596230045",
+  "location": "E5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78d3074cdef2ded17dcc1"
+  },
+  "barcode": "4714925002891",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78d3474cdef2ded17dcc4"
+  },
+  "barcode": "4714925003195",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78d4174cdef2ded17dcc7"
+  },
+  "barcode": "4710596230137",
+  "location": "H1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78d6974cdef2ded17dccd"
+  },
+  "barcode": "840164516968",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78d9974cdef2ded17dcd0"
+  },
+  "barcode": "4710837772617",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78da074cdef2ded17dcd3"
+  },
+  "barcode": "4714925301161",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78da374cdef2ded17dcd6"
+  },
+  "barcode": "840164516920",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78da674cdef2ded17dcd9"
+  },
+  "barcode": "4710596330097",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78daa74cdef2ded17dcdc"
+  },
+  "barcode": "4716140210204",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78db674cdef2ded17dcdf"
+  },
+  "barcode": "4710596330134",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78dbb74cdef2ded17dce2"
+  },
+  "barcode": "4710596240143",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78dc374cdef2ded17dce5"
+  },
+  "barcode": "4713680747108",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78dc774cdef2ded17dce8"
+  },
+  "barcode": "4716140006104",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78dca74cdef2ded17dceb"
+  },
+  "barcode": "4711916001161",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78dcf74cdef2ded17dcee"
+  },
+  "barcode": "4713930416556",
+  "location": "H2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78e4b74cdef2ded17dcf2"
+  },
+  "barcode": "4711457462483",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78e5274cdef2ded17dcf5"
+  },
+  "barcode": "4713930145432",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78e5774cdef2ded17dcf8"
+  },
+  "barcode": "4713930093375",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78e5b74cdef2ded17dcfb"
+  },
+  "barcode": "4710596392064",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78e6774cdef2ded17dcfe"
+  },
+  "barcode": "4715168103567",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78e7d74cdef2ded17dd01"
+  },
+  "barcode": "02-25516336",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78e9374cdef2ded17dd04"
+  },
+  "barcode": "0.06%02-25516336",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78e9c74cdef2ded17dd07"
+  },
+  "barcode": "4713930081211",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ea174cdef2ded17dd0a"
+  },
+  "barcode": "4719872180012",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ea674cdef2ded17dd0d"
+  },
+  "barcode": "4714599924406",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78eb874cdef2ded17dd12"
+  },
+  "barcode": "4713435580622",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ec174cdef2ded17dd15"
+  },
+  "barcode": "4717555069715",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ec674cdef2ded17dd18"
+  },
+  "barcode": "4713930018217",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ec974cdef2ded17dd1b"
+  },
+  "barcode": "4712462412814",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ecd74cdef2ded17dd1e"
+  },
+  "barcode": "4713157060426",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78edd74cdef2ded17dd23"
+  },
+  "barcode": "4712462408817",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ee474cdef2ded17dd26"
+  },
+  "barcode": "4713930179215",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ef074cdef2ded17dd29"
+  },
+  "barcode": "4713930068229",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78ef774cdef2ded17dd2c"
+  },
+  "barcode": "4711934357660",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78efb74cdef2ded17dd2f"
+  },
+  "barcode": "9316626102167",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78eff74cdef2ded17dd32"
+  },
+  "barcode": "4713930215210",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78f0274cdef2ded17dd35"
+  },
+  "barcode": "4710837777162",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78f0574cdef2ded17dd38"
+  },
+  "barcode": "4716469100354",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78f0874cdef2ded17dd3b"
+  },
+  "barcode": "4715168106155",
+  "location": "H3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b78f0e74cdef2ded17dd3e"
+  },
+  "barcode": "840164516777",
+  "location": "H3",
+  "__v": 0
+}]
